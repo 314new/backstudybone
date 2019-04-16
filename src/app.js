@@ -1,0 +1,5 @@
+let App = {
+    Routers: {
+        Main: {}
+    }
+}
